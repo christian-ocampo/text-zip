@@ -1,3 +1,12 @@
+/*
+Group 7
+Authors: Christian Ocampo Campuzano, Alexis Lara-Ramirez, Paola Cuevas Ramírez, Leonardo Lujan
+NetIDs: christianocampo, alexislararamirez, cuevasramirezp, leonardolujan
+Description: The program compresses a folder by using threads, increasing completion time drastically. 
+
+*/
+
+
 #include <dirent.h> 
 #include <stdio.h> 
 #include <assert.h>
